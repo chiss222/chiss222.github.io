@@ -1,0 +1,5 @@
+name: Demo Website
+title: Jekyll in WEBD1114
+description: Playing in GitHub Pages
+sass:
+  style: compressed
